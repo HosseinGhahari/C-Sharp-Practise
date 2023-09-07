@@ -1,0 +1,30 @@
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.exe
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.deps.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\refint\Driving License Test.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Driving License Test\Driving License Test\obj\Debug\net6.0\ref\Driving License Test.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\bin\Debug\net6.0\Driving License Test.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\refint\Driving License Test.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\Driving License Test.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Driving License Test\Driving License Test\obj\Debug\net6.0\ref\Driving License Test.dll

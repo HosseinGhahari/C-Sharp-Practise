@@ -1,0 +1,30 @@
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.exe
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.deps.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\refint\Tax and Insurance.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\ref\Tax and Insurance.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\bin\Debug\net6.0\Tax and Insurance.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\refint\Tax and Insurance.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\Tax and Insurance.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\Tax and Insurance Precentge\Tax and Insurance\obj\Debug\net6.0\ref\Tax and Insurance.dll

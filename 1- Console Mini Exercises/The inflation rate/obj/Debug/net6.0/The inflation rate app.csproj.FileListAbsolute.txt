@@ -1,0 +1,30 @@
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.exe
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.deps.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\refint\The inflation rate app.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\The inflation rate\The inflation rate app\obj\Debug\net6.0\ref\The inflation rate app.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\bin\Debug\net6.0\The inflation rate app.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\refint\The inflation rate app.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\The inflation rate app.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\1- Console Mini Practise\The inflation rate\The inflation rate app\obj\Debug\net6.0\ref\The inflation rate app.dll

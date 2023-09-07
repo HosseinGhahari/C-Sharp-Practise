@@ -1,0 +1,5 @@
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Converter Console app\bin\Release\net6.0\app.publish\Converter Console app.exe
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Converter Console app\bin\Release\net6.0\app.publish\Converter Console app.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Converter Console app\bin\Release\net6.0\app.publish\Converter Console app.deps.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Converter Console app\bin\Release\net6.0\app.publish\Converter Console app.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Converter Console app\bin\Release\net6.0\app.publish\Converter Console app.pdb

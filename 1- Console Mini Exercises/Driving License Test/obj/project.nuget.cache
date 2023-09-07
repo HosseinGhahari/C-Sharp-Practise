@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ty1QOe8jR3A5Gr7J+ywaHNfnbjuu/hl4YDAJD47dx0/j8fGqSGfWec59EXXl7JvlhT30xIE8x77h6aWqDB1tEA==",
+  "success": true,
+  "projectFilePath": "C:\\My Work\\2- Programming\\3- C# Learning\\Exercices For Sharing\\1- Console Mini Practise\\Driving License Test\\Driving License Test\\Driving License Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

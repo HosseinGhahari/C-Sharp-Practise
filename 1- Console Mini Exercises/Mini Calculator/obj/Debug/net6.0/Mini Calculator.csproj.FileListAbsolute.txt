@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.exe
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.deps.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\refint\Mini Calculator.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Mini Calculator\Mini Calculator\obj\Debug\net6.0\ref\Mini Calculator.dll

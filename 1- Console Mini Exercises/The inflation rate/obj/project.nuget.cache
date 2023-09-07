@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jf9mxvcjdW2cyxxGV8J+vJ29gq/bBa3IZZU4fBYe7iS5OL+6SPF0VUmdsWGjHiAZpw31mhPbJbq+7oaH3rOnEw==",
+  "success": true,
+  "projectFilePath": "C:\\My Work\\2- Programming\\3- C# Learning\\Exercices For Sharing\\1- Console Mini Practise\\The inflation rate\\The inflation rate app\\The inflation rate app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

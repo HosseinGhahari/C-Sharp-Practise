@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length Counter", "Length Counter.csproj", "{BEAD399C-9DB0-4499-852B-D52470E74FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAD399C-9DB0-4499-852B-D52470E74FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAD399C-9DB0-4499-852B-D52470E74FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAD399C-9DB0-4499-852B-D52470E74FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAD399C-9DB0-4499-852B-D52470E74FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30818489-5654-4F16-AAD8-B6D8AAE90EBD}
+	EndGlobalSection
+EndGlobal

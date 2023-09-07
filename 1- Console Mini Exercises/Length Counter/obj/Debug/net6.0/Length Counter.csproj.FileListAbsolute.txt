@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\bin\Debug\net6.0\Length Counter.exe
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\bin\Debug\net6.0\Length Counter.deps.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\bin\Debug\net6.0\Length Counter.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\bin\Debug\net6.0\Length Counter.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\bin\Debug\net6.0\Length Counter.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\refint\Length Counter.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\Length Counter.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Length Counter\Length Counter\obj\Debug\net6.0\ref\Length Counter.dll

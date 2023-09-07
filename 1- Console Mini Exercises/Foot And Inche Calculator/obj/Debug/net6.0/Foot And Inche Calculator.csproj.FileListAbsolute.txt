@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\bin\Debug\net6.0\Foot And Inche Calculator.exe
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\bin\Debug\net6.0\Foot And Inche Calculator.deps.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\bin\Debug\net6.0\Foot And Inche Calculator.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\bin\Debug\net6.0\Foot And Inche Calculator.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\bin\Debug\net6.0\Foot And Inche Calculator.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\refint\Foot And Inche Calculator.dll
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.pdb
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\Foot And Inche Calculator.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\2- Console app mini Exercise\Foot And Inche Calculator\Foot And Inche Calculator\obj\Debug\net6.0\ref\Foot And Inche Calculator.dll

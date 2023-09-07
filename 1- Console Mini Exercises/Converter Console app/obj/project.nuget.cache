@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NQLpfJ84YpcmfieKuDQKAos8a/AXBj7wm95sMw9gFtT/novbFvcsL6vYq5NiRSc0+EHhQrdmt4+OEfk4PAE1g==",
+  "success": true,
+  "projectFilePath": "C:\\My Work\\2- Programming\\3- C# Learning\\Exercices For Sharing\\1- Console Mini Practise\\Converter Console app\\Converter Console app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
