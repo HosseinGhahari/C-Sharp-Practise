@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\bin\Debug\net6.0\Speed Control Camera.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\bin\Debug\net6.0\Speed Control Camera.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\bin\Debug\net6.0\Speed Control Camera.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\bin\Debug\net6.0\Speed Control Camera.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\bin\Debug\net6.0\Speed Control Camera.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\refint\Speed Control Camera.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\Speed Control Camera.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\Basic Part\Speed Control Camera\obj\Debug\net6.0\ref\Speed Control Camera.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image is landscape or portrait.", "..\Image is landscape or portrait\Image is landscape or portrait..csproj", "{32957D4B-A7CF-44D6-8BDB-A34F387696DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32957D4B-A7CF-44D6-8BDB-A34F387696DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32957D4B-A7CF-44D6-8BDB-A34F387696DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32957D4B-A7CF-44D6-8BDB-A34F387696DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32957D4B-A7CF-44D6-8BDB-A34F387696DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D7BB43A-EDC6-4F74-84B0-EE851642FC55}
+	EndGlobalSection
+EndGlobal

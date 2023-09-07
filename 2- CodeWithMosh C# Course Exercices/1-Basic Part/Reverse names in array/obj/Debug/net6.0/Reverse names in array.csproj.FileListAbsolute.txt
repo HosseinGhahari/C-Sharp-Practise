@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\bin\Debug\net6.0\Reverse names in array.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\bin\Debug\net6.0\Reverse names in array.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\bin\Debug\net6.0\Reverse names in array.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\bin\Debug\net6.0\Reverse names in array.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\bin\Debug\net6.0\Reverse names in array.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\refint\Reverse names in array.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\Reverse names in array.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Reverse names in array\obj\Debug\net6.0\ref\Reverse names in array.dll

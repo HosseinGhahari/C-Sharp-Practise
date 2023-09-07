@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\bin\Debug\net6.0\Duplicates numbers.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\bin\Debug\net6.0\Duplicates numbers.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\bin\Debug\net6.0\Duplicates numbers.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\bin\Debug\net6.0\Duplicates numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\bin\Debug\net6.0\Duplicates numbers.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\refint\Duplicates numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\Duplicates numbers.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Duplicates numbers\obj\Debug\net6.0\ref\Duplicates numbers.dll

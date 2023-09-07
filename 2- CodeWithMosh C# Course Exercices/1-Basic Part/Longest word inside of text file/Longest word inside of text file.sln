@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest word inside of text file", "Longest word inside of text file.csproj", "{FD49FE99-B65A-4F79-AE6E-B19E0B802A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD49FE99-B65A-4F79-AE6E-B19E0B802A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD49FE99-B65A-4F79-AE6E-B19E0B802A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD49FE99-B65A-4F79-AE6E-B19E0B802A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD49FE99-B65A-4F79-AE6E-B19E0B802A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB85CC4-D314-447B-9C27-B715BDC2D175}
+	EndGlobalSection
+EndGlobal

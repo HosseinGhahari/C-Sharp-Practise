@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\bin\Debug\net6.0\Consecutive numbers.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\bin\Debug\net6.0\Consecutive numbers.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\bin\Debug\net6.0\Consecutive numbers.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\bin\Debug\net6.0\Consecutive numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\bin\Debug\net6.0\Consecutive numbers.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\refint\Consecutive numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\Consecutive numbers.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Consecutive numbers\obj\Debug\net6.0\ref\Consecutive numbers.dll

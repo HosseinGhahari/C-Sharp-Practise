@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\bin\Debug\net6.0\Show only unique numbers.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\bin\Debug\net6.0\Show only unique numbers.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\bin\Debug\net6.0\Show only unique numbers.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\bin\Debug\net6.0\Show only unique numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\bin\Debug\net6.0\Show only unique numbers.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\refint\Show only unique numbers.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\Show only unique numbers.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\2- CodeWithMosh C# Course Exercices\1-Basic Part\Show only unique numbers\obj\Debug\net6.0\ref\Show only unique numbers.dll
