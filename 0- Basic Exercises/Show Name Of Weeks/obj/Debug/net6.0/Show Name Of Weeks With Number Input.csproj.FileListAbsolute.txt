@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\bin\Debug\net6.0\Show Name Of Weeks With Number Input.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\bin\Debug\net6.0\Show Name Of Weeks With Number Input.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\bin\Debug\net6.0\Show Name Of Weeks With Number Input.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\bin\Debug\net6.0\Show Name Of Weeks With Number Input.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\bin\Debug\net6.0\Show Name Of Weeks With Number Input.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\refint\Show Name Of Weeks With Number Input.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\Show Name Of Weeks With Number Input.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Show Name Of Weeks With Number Input\obj\Debug\net6.0\ref\Show Name Of Weeks With Number Input.dll

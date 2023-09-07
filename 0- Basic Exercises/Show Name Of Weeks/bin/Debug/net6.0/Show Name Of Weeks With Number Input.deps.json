@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Show Name Of Weeks With Number Input/1.0.0": {
+        "runtime": {
+          "Show Name Of Weeks With Number Input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Show Name Of Weeks With Number Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

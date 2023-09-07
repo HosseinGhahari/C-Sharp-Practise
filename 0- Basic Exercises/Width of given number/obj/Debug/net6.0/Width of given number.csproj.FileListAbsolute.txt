@@ -1,0 +1,15 @@
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\bin\Debug\net6.0\Width of given number.exe
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\bin\Debug\net6.0\Width of given number.deps.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\bin\Debug\net6.0\Width of given number.runtimeconfig.json
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\bin\Debug\net6.0\Width of given number.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\bin\Debug\net6.0\Width of given number.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.AssemblyInfo.cs
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\refint\Width of given number.dll
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.pdb
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\Width of given number.genruntimeconfig.cache
+C:\My Work\2- Programming\3- C# Learning\Exercices For Sharing\0- Basic Practise\Width of given number\obj\Debug\net6.0\ref\Width of given number.dll
